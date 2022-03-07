@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 print('Hello World')
-
+print("Xav suce!")
 
 def calculate(E):
     h, c, e = 6.6260715 * 10 ** (-34), 2.99792458 * 10 ** 8, 1.60217662 * 10 ** (-19)
